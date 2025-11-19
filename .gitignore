@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+
+# Dependency directories
+node_modules/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# dotenv environment variable files
+.env
+
+# Build output directories
+dist/
+
+# Tanstack
+.output/
+.tanstack/
+.nitro/
